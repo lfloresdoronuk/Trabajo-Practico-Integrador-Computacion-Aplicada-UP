@@ -1,2 +1,6 @@
 # Trabajo-Practico-Integrador-Computacion-Aplicada-UP
-Repositorio para subir los entregables de los directorios del TP Integrador de la materia Computacion Aplicada
+
+Realizado por:
+Ludmila Flores Doronuk
+
+Este repositorio contiene los archivos entregables comprimidos del trabajo practico y el diagrama topologico
